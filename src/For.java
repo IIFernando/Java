@@ -14,5 +14,7 @@ public class For {
         }
 
         System.out.println(soma);
+
+        sc.close();
     }
 }

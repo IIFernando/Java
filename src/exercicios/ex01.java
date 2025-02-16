@@ -23,5 +23,6 @@ public class ex01 {
             }
         }
 
+        sc.close();
     }
 }

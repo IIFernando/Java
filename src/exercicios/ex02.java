@@ -48,5 +48,7 @@ public class ex02 {
             }
 
         }
+
+        sc.close();
     }
 }

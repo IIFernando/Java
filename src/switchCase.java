@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class switchCase {
     public static void main(String[] args) {
 
@@ -39,5 +37,7 @@ public class switchCase {
                                         System.out.println("Dia da semana informado: " + dia);
                                         break;
         }
+
+        sc.close();
         }
     }

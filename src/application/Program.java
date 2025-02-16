@@ -42,9 +42,7 @@ public class Program {
         {
             System.out.println("A area Y é a maior");
         }
-
-
-
+        
         sc.close();
     }
 }

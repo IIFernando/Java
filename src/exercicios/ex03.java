@@ -18,5 +18,7 @@ public class ex03
             }
 
         }
+
+        sc.close();
     }
 }
