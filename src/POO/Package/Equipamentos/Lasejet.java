@@ -1,5 +1,5 @@
-package pooInterfaces.Package.Equipamentos;
-import pooInterfaces.Package.Impressora;
+package POO.Package.Equipamentos;
+import POO.Package.Impressora;
 
 public class Lasejet implements Impressora {
     public void imprimir() {

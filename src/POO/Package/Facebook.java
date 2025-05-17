@@ -1,18 +1,18 @@
-package poo.Package;
+package POO.Package;
 
 // O método extends é utilizado para herdar as características de outra classe.
-public class Telegram extends serviceMensagemInstantanea 
+public class Facebook extends serviceMensagemInstantanea 
 {
 
     @Override
     public void enviarMensagem() {
         validarConectadoInternet();
-        System.out.println("Enviando mensagem pelo Telegram");
+        System.out.println("Enviando mensagem pelo Facebook");
     }
 
     @Override
     public void receberMensagem() {
-        System.out.println("Recebendo mensagem pelo Telegram");
+        System.out.println("Recebendo mensagem pelo Facebook");
     }
 
 }

@@ -1,4 +1,4 @@
-package poo.Package;
+package POO.Package;
 
 // O método extends é utilizado para herdar as características de outra classe.
 public class MSNMessenger extends serviceMensagemInstantanea

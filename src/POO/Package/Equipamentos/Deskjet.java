@@ -1,6 +1,6 @@
-package pooInterfaces.Package.Equipamentos;
+package POO.Package.Equipamentos;
 
-import pooInterfaces.Package.Impressora;
+import POO.Package.Impressora;
 
 public class Deskjet implements Impressora {
     

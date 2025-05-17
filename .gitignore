@@ -4,7 +4,8 @@ out/
 !**/src/test/**/out/
 .idea
 .gitignore
-fernando.iml
+Estudos.iml.iml
+
 ### Eclipse ###
 .apt_generated
 .classpath

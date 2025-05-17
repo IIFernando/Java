@@ -1,11 +1,11 @@
-package poo;
+package POO;
 
-import poo.Package.Facebook;
-import poo.Package.MSNMessenger;
-import poo.Package.Telegram;
-import poo.Package.serviceMensagemInstantanea;
+import POO.Package.Facebook;
+import POO.Package.MSNMessenger;
+import POO.Package.Telegram;
+import POO.Package.serviceMensagemInstantanea;
 
-public class Main {
+public class Mensageiros {
     public static void main(String[] args) {
 
         // Aplicando o polimorfismo para instanciar a classe serviceMensagemInstantanea

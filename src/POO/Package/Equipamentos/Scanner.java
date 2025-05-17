@@ -1,6 +1,6 @@
-package pooInterfaces.Package.Equipamentos;
+package POO.Package.Equipamentos;
 
-import pooInterfaces.Package.Digitalizadora;
+import POO.Package.Digitalizadora;
 
 public class Scanner implements Digitalizadora {
     public void digitalizar() {

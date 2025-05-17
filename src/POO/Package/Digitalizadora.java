@@ -1,4 +1,4 @@
-package pooInterfaces.Package;
+package POO.Package;
 
 // As interfaces funcionam como classes abstratas, mas com a diferença de que não podem ter métodos implementados.
 // As interfaces são utilizadas para definir um contrato que outras classes devem seguir.

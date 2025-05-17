@@ -1,4 +1,4 @@
-package poo.Package;
+package POO.Package;
 
 public class Person {
 }

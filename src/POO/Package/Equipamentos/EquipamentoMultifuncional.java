@@ -1,8 +1,8 @@
-package pooInterfaces.Package.Equipamentos;
+package POO.Package.Equipamentos;
 
-import pooInterfaces.Package.Copiadora;
-import pooInterfaces.Package.Digitalizadora;
-import pooInterfaces.Package.Impressora;
+import POO.Package.Copiadora;
+import POO.Package.Digitalizadora;
+import POO.Package.Impressora;
 
 public class EquipamentoMultifuncional implements Copiadora, Digitalizadora, Impressora{
 

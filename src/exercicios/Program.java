@@ -1,6 +1,6 @@
 package exercicios;
 
-import entities.Triangle;
+import POO.Package.Triangle;
 
 import java.util.Locale;
 import java.util.Scanner;
