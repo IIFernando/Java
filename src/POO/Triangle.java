@@ -1,19 +1,17 @@
-package exercicios;
-
-import POO.Package.Triangle;
+package POO;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Program {
+public class Triangle {
     public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        Triangle x, y;
-        x = new Triangle();
-        y = new Triangle();
+        POO.Package.Triangle x, y;
+        x = new POO.Package.Triangle();
+        y = new POO.Package.Triangle();
 
         System.out.println("Digite o valor de X: ");
         x.a = sc.nextDouble();
